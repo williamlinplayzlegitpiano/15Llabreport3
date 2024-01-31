@@ -42,7 +42,7 @@
 * Extracted user (`usr`): Charlie Brown
 
 **Change from Relevant Fields:**
-* `chatHistory` before URL request: `""jpolitz: Hello"\n"`
+* `chatHistory` before URL request: `"jpolitz: Hello\n"`
 * `chatHistory` after URL request: `"jpolitz: Hello\nCharlie Brown: Hey\n"`
 
 **Explanation for Change:**
