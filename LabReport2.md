@@ -14,9 +14,9 @@ Example 1:
 Methods Called: main, handleRequest
 
 Relevant Arguments: 
-    URL: http://localhost:5000/add-message?s=Hello&user=jpolitz
-    Extracted message (`msg`): Hello
-    Extracted user (`usr`): jpolitz
+    *URL: http://localhost:5000/add-message?s=Hello&user=jpolitz
+    *Extracted message (`msg`): Hello
+    *Extracted user (`usr`): jpolitz
 
 Change from Relevant Fields: 
     `chatHistory` before URL request: `""`
