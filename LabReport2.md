@@ -48,7 +48,7 @@
 **Explanation for Change:**
 * The existing `"jpolitz: Hello\n"` is appended with the message "Hey" from "Charlie Brown".
 
-##SSH Keys
+## SSH Keys
 
 **Private Key**
 
