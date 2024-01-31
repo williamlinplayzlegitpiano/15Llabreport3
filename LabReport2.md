@@ -12,8 +12,8 @@
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/4784f9d8-3f40-4be1-bc88-65a979413c89)
 
 **Methods Called:**
-* main
-* handleRequest
+* `main`
+* `handleRequest`
 
 **Relevant Arguments:**
 * URL: http://localhost:5000/add-message?s=Hello&user=jpolitz
@@ -33,8 +33,8 @@
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/66f8aeb1-5f3b-4949-bfb0-1bab00612409)
 
 **Methods Called:**
-* main
-* handleRequest
+* `main`
+* `handleRequest`
 
 **Relevant Arguments:**
 * URL: http://localhost:5000/add-message?s=Hey&user=Charlie%20Brown
