@@ -48,4 +48,26 @@
 **Explanation for Change:**
 * The existing `"jpolitz: Hello\n"` is appended with the message "Hey" from "Charlie Brown".
 
+##SSH Keys
 
+**Private Key**
+
+Absolute Path: \Users\William\.ssh
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/7355a2e2-0fae-4f27-92e3-7b577df954db)
+
+**Public Key**
+
+Absolute Path: /home/linux/ieng6/oce/5k/xil211/.ssh
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/cca9637d-0bd0-4060-8fa8-6d25d09cb529)
+
+**Login without Password**
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/9a7f1e58-3f67-4e7f-a1ef-6de7671c3151)
+
+---
+
+**Something I have not Learned Before**
+
+I have not learned anything from CSE 15L prior to taking the class. However, one thing that I was surprised the most was that we have our own ieng6 account at UCSD.
