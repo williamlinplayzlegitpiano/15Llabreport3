@@ -22,7 +22,7 @@
 
 **Change from Relevant Fields:**
 * `chatHistory` before URL request: `""`
-* `chatHistory` after URL request: `"jpolitz: Hello"\n`
+* `chatHistory` after URL request: `"jpolitz: Hello\n"`
 
 **Explanation for Change:**
 * Initially, `chatHistory` was empty. After processing the request, the message "Hello" from the user "jpolitz" is appended to `chatHistory`, with `\n` preparing for the next message on the next line.
@@ -43,9 +43,9 @@
 
 **Change from Relevant Fields:**
 * `chatHistory` before URL request: `""jpolitz: Hello"\n"`
-* `chatHistory` after URL request: `"jpolitz: Hello"\nCharlie Brown: Hey\n`
+* `chatHistory` after URL request: `"jpolitz: Hello\nCharlie Brown: Hey\n"`
 
 **Explanation for Change:**
-* The existing `"jpolitz: Hello"\n` is appended with the message "Hey" from "Charlie Brown".
+* The existing `"jpolitz: Hello\n"` is appended with the message "Hey" from "Charlie Brown".
 
 
