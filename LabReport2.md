@@ -52,13 +52,13 @@
 
 **Private Key**
 
-Absolute Path: \Users\William/.ssh/id_rsa.pub
+Absolute Path: `\Users\William/.ssh/id_rsa.pub`
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/7355a2e2-0fae-4f27-92e3-7b577df954db)
 
 **Public Key**
 
-Absolute Path: /home/linux/ieng6/oce/5k/xil211/.ssh/authorized_keys
+Absolute Path: `/home/linux/ieng6/oce/5k/xil211/.ssh/authorized_keys`
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/cca9637d-0bd0-4060-8fa8-6d25d09cb529)
 
