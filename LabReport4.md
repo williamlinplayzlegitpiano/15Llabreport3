@@ -65,13 +65,17 @@ Foreword: The error is located in the ListExamples.java script, on line 43.
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/e686747d-717b-425c-b8fe-b66dd807dd85)
 
 7. type `<:><w><q><!>` to save the changes, close the vim editor, and return to the terminal.
+---
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/e13337e2-af83-4119-9f3a-2a32c3f9c926)
 
 ## Step 8:
 
-run (pass):
+**run (pass):**
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/dd6d3812-9cad-4f29-ab08-f4e790b1359f)
 
 ## Step 9:
 
-add, commit, push:
+**add, commit, push:**
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/8dea82c4-c73a-4755-a369-c3d1cc131eef)
