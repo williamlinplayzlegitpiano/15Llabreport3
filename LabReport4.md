@@ -68,11 +68,17 @@ Foreword: The error is located in the ListExamples.java script, on line 43.
 ---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/e13337e2-af83-4119-9f3a-2a32c3f9c926)
 
+Summary: I opened `ListExamples.java` through vim to fix the error. Using vim keys, I was able to scroll down the lines with relative ease, change `index1` to `index2`, saving the change using `:wq!`, and ultimately fixing the problem.
+
 ## Step 8:
 
 **run (pass):**
 ---
+
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/dd6d3812-9cad-4f29-ab08-f4e790b1359f)
+Keys Pressed: `bash test.sh`
+
+Summary: Similar to Step 5, I ran `bash test.sh` to run the test scripts inside the file. From the output, it is evident that the tests have all passed.
 
 ## Step 9:
 
