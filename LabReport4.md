@@ -7,10 +7,14 @@
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/7a10a252-44ee-4899-bc26-74f9c9486872)
 
-Keys Pressed: `
+Keys Pressed: `ssh xil211@ieng6.ucsd.edu`
 
 ## Step 5:
+
+
 clone:
+---
+
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/0e5cc96e-9b0a-4e27-943a-ab1aa9163405)
 
 ## Step 6:
