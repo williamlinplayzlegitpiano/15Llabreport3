@@ -85,3 +85,10 @@ Summary: Similar to Step 5, I ran `bash test.sh` to run the test scripts inside 
 **add, commit, push:**
 ---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/8dea82c4-c73a-4755-a369-c3d1cc131eef)
+Key Pressed: `git add ListExamples.java`, `git commit -m "updated listExamples"`, `git push origin main`
+
+Summary: I used `git add ListExamples.java`, `git commit -m "updated listExamples"`, and `git push origin main` to update the repository stored on my github account.
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/7b973a12-b73f-4c0f-aca0-0ca84ab0d294)
+
+Summary: Shows that the add, commit, and push were successful.
