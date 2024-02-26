@@ -9,6 +9,8 @@
 
 Keys Pressed: `ssh xil211@ieng6.ucsd.edu`
 
+Summary: I logged into my ieng6 account.
+
 ## Step 5:
 
 clone:
@@ -16,7 +18,9 @@ clone:
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/0e5cc96e-9b0a-4e27-943a-ab1aa9163405)
 
-Keys Pressed: `git clone git@github.com:williamlinplayzlegitpiano/lab7.git`
+Keys Pressed: `git clone git@github.com:williamlinplayzlegitpiano/lab7.git` or `git clone <right click>` after copying ssh url
+
+Summary: I took the forked repository and extracted the ssh url. Using that URL, I cloned the repository into my ieng6 account.
 
 ## Step 6:
 
