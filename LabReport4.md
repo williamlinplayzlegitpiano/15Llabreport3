@@ -42,39 +42,29 @@ Foreword: The error is located in the ListExamples.java script, on line 43.
 
 1. type `vim ListExamples.java` into the terminal to open the file under vim.
 ---
-
-
-
-
-
-7. type `<escape>` to stop editing mode.
-8. type `<:><w><q><!>` to save the changes, close the vim editor, and return to the terminal.
-
-vim ListExamples.java, 43 down,   11 right, x, i, 2, escape, :wq!
-
-start: 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/74e54f5b-d224-4db7-9867-e3de4de5116d)
 
 2. type `<4><3><down>` to go down the file 43 lines.
-
-after 43 down:
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/79d54a0e-bcc2-4d07-9298-e91a664c16f5)
 
 3. type `<1><1><right>` to go right the 43rd line 11 characters.
-after 11 right:
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/2087d7c4-9027-4e0a-8101-6464cd7222da)
 
 4. type `<x>` to remove the `1` from `index1`.
-after x:
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/c8ac37e6-f31e-4033-8ad8-aab30aeac9a7)
 
 5. type `<i>` to insert the new missing value after `index`.
-after i:
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/161e25a2-962e-42b2-aa30-019640299a7f)
 
-6. type `<2>` to insert `<2>` after `<index>` for `<index2>`.
-after 2:
+6. type `<2>` to insert `<2>` after `<index>` for `<index2>`, followed by `<escape>` to stop editing mode.
+---
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/e686747d-717b-425c-b8fe-b66dd807dd85)
+
+7. type `<:><w><q><!>` to save the changes, close the vim editor, and return to the terminal.
 
 ## Step 8:
 
