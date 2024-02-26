@@ -7,11 +7,16 @@ login: asd
 
 Keys Pressed:
 
+## Step 5:
 clone:
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/0e5cc96e-9b0a-4e27-943a-ab1aa9163405)
 
+## Step 6:
+
 run (fail):
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/f3d854d0-8336-4a20-a903-2b96015e348a)
+
+## Step 7:
 
 vim ListExamples.java, 43 down,   11 right, x, i, 2, escape, :wq!
 
@@ -33,8 +38,12 @@ after i:
 after 2:
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/e686747d-717b-425c-b8fe-b66dd807dd85)
 
+## Step 8:
+
 run (pass):
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/dd6d3812-9cad-4f29-ab08-f4e790b1359f)
+
+## Step 9:
 
 add, commit, push:
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/8dea82c4-c73a-4755-a369-c3d1cc131eef)
