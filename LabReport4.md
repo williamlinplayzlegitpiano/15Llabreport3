@@ -31,9 +31,11 @@ Summary: I took the forked repository and extracted the ssh url. Using that URL,
 
 Keys Pressed: `cd lab7`, followed by `bash test.sh`
 
-Summary: I used `cd lab7` to change my active directory to `~/perl5/lab7`, where the directory I'm working with is located. After that, I ran `bash test.sh` to run the test scripts `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` inside the file.
+Summary: I used `cd lab7` to change my active directory to `~/perl5/lab7`, where the directory I'm working with is located. After that, I ran `bash test.sh` to run the test scripts `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` inside the file. From the output, we can see that 
 
 ## Step 7:
+
+**Editing the Error**
 
 vim ListExamples.java, 43 down,   11 right, x, i, 2, escape, :wq!
 
