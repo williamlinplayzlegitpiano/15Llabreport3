@@ -76,6 +76,7 @@ Summary: I opened `ListExamples.java` through vim to fix the error. Using vim ke
 ---
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/dd6d3812-9cad-4f29-ab08-f4e790b1359f)
+
 Keys Pressed: `bash test.sh`
 
 Summary: Similar to Step 5, I ran `bash test.sh` to run the test scripts inside the file. From the output, it is evident that the tests have all passed.
