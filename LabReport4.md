@@ -29,6 +29,10 @@ Summary: I took the forked repository and extracted the ssh url. Using that URL,
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/f3d854d0-8336-4a20-a903-2b96015e348a)
 
+Keys Pressed: `cd lab7`, followed by `bash test.sh`
+
+Summary: I used `cd lab7` to change my active directory to `perl5/lab7`
+
 ## Step 7:
 
 vim ListExamples.java, 43 down,   11 right, x, i, 2, escape, :wq!
