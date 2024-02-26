@@ -11,11 +11,12 @@ Keys Pressed: `ssh xil211@ieng6.ucsd.edu`
 
 ## Step 5:
 
-
 clone:
 ---
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/0e5cc96e-9b0a-4e27-943a-ab1aa9163405)
+
+Keys Pressed:
 
 ## Step 6:
 
