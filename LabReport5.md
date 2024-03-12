@@ -44,6 +44,8 @@ Thanks for the help. I realized that the `i <= numbers.length` would loop the `f
 
 ### Setup Information
 
+---
+
 #### **File Directory and Structure**
 
 **Path `pwd`:**
