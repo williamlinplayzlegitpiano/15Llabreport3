@@ -15,7 +15,9 @@
 
 **Problem Description:**
 
-When I ran my `main` class, I got the output I wanted (1,2,3,4,5) from my `for` loop. However, I was also hit with the message `java.lang.ArrayIndexOutOfBoundsException`. My guess is that, since I received the output I want on top of the error message, my problem lies in the `for` loop?
+Hey everyone, I'm having trouble with my Java program. I'm trying to run it, but it's giving me this weird error message. The error message says something about an `ArrayIndexOutOfBoundsException`. I think it might be related to how I'm accessing elements in my array, but I'm not sure. Can anyone help me figure out what's going wrong?
+
+### TA's Response
 
 
 Keys Pressed: `ssh xil211@ieng6.ucsd.edu`
