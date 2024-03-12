@@ -44,17 +44,17 @@ Thanks for the help. I realized that the `i <= numbers.length` would loop the `f
 
 ### Setup Information
 
-**File Directory and Structure**
+#### **File Directory and Structure**
 
-Path `pwd`:
+**Path `pwd`:**
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/6bc5ac6a-56b9-49ac-a6eb-8335dd75bfef)
 
-File Directory `ls`:
+**File Directory `ls`:**
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/6044763f-56f4-4ac4-9181-5499c3f3b9f8)
 
-Contents of Each File Before Fixing Bug:
+**Contents of Each File Before Fixing Bug:**
 
 `Main.java`:
 
