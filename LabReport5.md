@@ -8,7 +8,7 @@
 
 **Code:**
 
-![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/1dd7fc46-a568-446e-a44b-aba59d3fb158)
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/9b503219-1946-4f11-b921-5a16999665af)
 
 **Output:**
 
@@ -23,6 +23,13 @@ Hey everyone, I'm having trouble with my Java program. I'm trying to run it, but
 ---
 
 Hi there! Thanks for reaching out. It looks like you're encountering an `ArrayIndexOutOfBoundsException`, which typically occurs when you're trying to access an index in an array that doesn't exist. Please check your `for` loop. How many times would the `for` loop run and how many indexes are in your `numbers` array? 
+
+
+
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/f60ed29f-73fb-443d-9ecd-f689183432ab)
+
+
 
 
 
