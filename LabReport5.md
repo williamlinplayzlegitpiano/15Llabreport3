@@ -43,3 +43,31 @@ Hi there! Thanks for reaching out. It looks like you're encountering an `ArrayIn
 Thanks for the help. I realized that the `i <= numbers.length` would loop the `for` loop 6 times when the `numbers` array was 5 indexes long. I believe this resulted in the `for` loop to access an index that did not exist. After changing to `i < numbers.length`, my output no longer had the `ArrayIndexOutOfBoundsException` error, ultimately fixing my bug.
 
 ### Setup Information
+
+**File Directory and Structure**
+
+Path `pwd`:
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/6bc5ac6a-56b9-49ac-a6eb-8335dd75bfef)
+
+File Directory `ls`:
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/6044763f-56f4-4ac4-9181-5499c3f3b9f8)
+
+Contents of Each File Before Fixing Bug:
+
+`Main.java`:
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/9b503219-1946-4f11-b921-5a16999665af)
+
+`test.sh`:
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/ee8d8a2d-8f01-4ce8-8727-3d4b2f799f57)
+
+
+
+
+
+
+
+
