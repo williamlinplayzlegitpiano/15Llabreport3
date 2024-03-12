@@ -12,7 +12,7 @@
 
 **Output:**
 
-![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/42a419b4-b5d5-4db9-ac71-2444b83bea9c)
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/2c864945-2131-455b-8ef7-5f37edf9949d)
 
 **Problem Description:**
 
