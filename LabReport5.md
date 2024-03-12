@@ -70,7 +70,11 @@ Thanks for the help. I realized that the `i <= numbers.length` would loop the `f
 
 **Description of What to Edit to Fix Bug**
 
-To fix this bug, the user must make sure the number of times the loop is run is **equal** to the size of the respective array. In this scenario, because the size of `numbers` array is 5, the `for` loop condition `i <= numbers.length` needs to change to `i < numbers.length` to decrease the number of times looped from 6 to 5.
+To fix this bug, the user must make sure the number of times the loop is run is **equal** to the size of the respective array. In the `Main` class, because the size of the `numbers` array is 5, the `for` loop condition, `i <= numbers.length`, needs to change to `i < numbers.length` to decrease the number of times looped from 6 to 5.
 
+## Part 2: Reflection
 
+I feel very fortunate to attend this CSE 15L class because these labs have been the most hands-on and informative sessions I have attended in my two years at UCSD. One thing most memorable to me is how loose the environment is during labs. I have an 8am lab, and it is extremely difficult for me to drag myself out of my cozy bed to attend any of these labs. However, I look forward to every session and attend them the best of my ability since the people and tutors around me are so friendly and welcoming.
+
+One specific thing I found fascinating in lab is the use of `vim`. Of course, it is much more tedious than using an editor like VSC. However, I have a friend who is also in CSE 15L this quarter who was able to use `vim` to edit his code last minute on the road to his hockey game. Without `vim`, he would have 100% lost marks on his CSE 12 PA, showing an extremely practical use of this tool.
 
