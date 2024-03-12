@@ -74,6 +74,17 @@ Thanks for the help. I realized that the `i <= numbers.length` would loop the `f
 
 To fix this bug, the user must make sure the number of times the loop is run is **equal** to the size of the respective array. In the `Main` class, because the size of the `numbers` array is 5, the `for` loop condition, `i <= numbers.length`, needs to change to `i < numbers.length` to decrease the number of times looped from 6 to 5.
 
+**Contents of Each File After Fixing Bug:**
+
+`Main.java`:
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/b89b807e-8234-401c-814f-e8c0866127d0)
+
+`test.sh`:
+
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/eeb82ec5-2742-4475-be45-43c332bc1bc9)
+
+
 ## Part 2: Reflection
 
 I feel very fortunate to attend this CSE 15L class because these labs have been the most hands-on and informative sessions I have attended in my two years at UCSD. One thing most memorable to me is how loose the environment is during labs. I have an 8am lab, and it is extremely difficult for me to drag myself out of my cozy bed to attend any of these labs. However, I look forward to every session and attend them the best of my ability since the people and tutors around me are so friendly and welcoming.
