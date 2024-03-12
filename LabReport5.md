@@ -26,11 +26,19 @@ Hi there! Thanks for reaching out. It looks like you're encountering an `ArrayIn
 
 
 
+### Student's Response
+
+**Fixed Code:**
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/f60ed29f-73fb-443d-9ecd-f689183432ab)
 
+**Fixed Output:**
 
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/05a78bc3-e16a-4501-84e4-7043e92549da)
 
+**Response:**
+
+Thanks for the help. I realized that the `i <= numbers.length` would loop the `for` loop 6 times when the `numbers` array was 5 indexes long. I believe this resulted in the `for` loop to access an index that did not exist. After changing to `i < numbers.length`, my output no longer had the `ArrayIndexOutOfBoundsException` error, ultimately fixing my bug.
 
 
 Keys Pressed: `ssh xil211@ieng6.ucsd.edu`
