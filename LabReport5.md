@@ -17,8 +17,6 @@
 
 Hey everyone, I'm having trouble with my Java program. I'm trying to run it, but it's giving me this weird error message. The error message says something about an `ArrayIndexOutOfBoundsException`. I think it might be related to how I'm accessing elements in my array, but I'm not sure. Can anyone help me figure out what's going wrong?
 
----
-
 ### TA's Response
 
 ---
