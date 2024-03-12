@@ -28,6 +28,8 @@ Hi there! Thanks for reaching out. It looks like you're encountering an `ArrayIn
 
 ### Student's Response
 
+---
+
 **Fixed Code:**
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/f60ed29f-73fb-443d-9ecd-f689183432ab)
