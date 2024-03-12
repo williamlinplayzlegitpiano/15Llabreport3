@@ -22,6 +22,10 @@ Hey everyone, I'm having trouble with my Java program. I'm trying to run it, but
 
 ---
 
+Hi there! Thanks for reaching out. It looks like you're encountering an `ArrayIndexOutOfBoundsException`, which typically occurs when you're trying to access an index in an array that doesn't exist. Please check your `for` loop. How many times would the `for` loop run and how many indexes are in your `numbers` array? 
+
+
+
 Keys Pressed: `ssh xil211@ieng6.ucsd.edu`
 
 Summary: I logged into my ieng6 account.
