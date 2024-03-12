@@ -36,7 +36,7 @@ Hi there! Thanks for reaching out. It looks like you're encountering an `ArrayIn
 
 **Fixed Output:**
 
-![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/05a78bc3-e16a-4501-84e4-7043e92549da)
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/ea750b95-27fc-4e35-b563-cc2b349b7be7)
 
 **Response:**
 
