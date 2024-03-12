@@ -64,10 +64,13 @@ Thanks for the help. I realized that the `i <= numbers.length` would loop the `f
 
 ![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/ee8d8a2d-8f01-4ce8-8727-3d4b2f799f57)
 
+**Full Command Line to Trigger the Bug**
 
+![image](https://github.com/williamlinplayzlegitpiano/15Llabreports/assets/55766910/ff445dbd-a82a-4884-8ddb-3d332b699bef)
 
+**Description of What to Edit to Fix Bug**
 
-
+To fix this bug, the user must make sure the number of times the loop is run is **equal** to the size of the respective array. In this scenario, because the size of `numbers` array is 5, the `for` loop condition `i <= numbers.length` needs to change to `i < numbers.length` to decrease the number of times looped from 6 to 5.
 
 
 
